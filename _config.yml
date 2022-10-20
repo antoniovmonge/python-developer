@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/antonio_500.jpg.jpg
+about_profile_image: images/antonio_500.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Antonio and I'm a Python Developer specialized in Django. 
   As well as developing robust and scalable platforms, 
