@@ -94,11 +94,10 @@ content:
     content:
       - layout: left
         title: 2050 Materials
-        link: app.2050-materials.com
         link: 2050-materials.com
         # link_text: boringcompany.com
         sub_title: Freelance Python Django Developer
-        caption: Contract 5 Months
+        caption: April 2022 - Present 
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
