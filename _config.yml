@@ -72,15 +72,21 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        quote: >
-          This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
+        # quote: >
+        #   This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of apply thinks I learn and love about Django to build a great platform.
+          It helps to chose the best building materials during the design stages. 
 
           This project includes:
 
-          - content management system (CMS).
+          - Advanced user authentication
+          - A content management system (CMS)
           - Model inheritance to create data models for polymorphic content
+          - Complex permissions and roles assigned programmatically to different type of users
+          - A RESTful API using Django REST framework
+          - Docker
+          - Internal Email management to *Contact* us and *Contact the manufacturer*
 
 
   - title: Experience # Title for the section
