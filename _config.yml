@@ -59,13 +59,13 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Building Materials
         link: github.com/antoniovmonge/build-mat
         # link_text: Project Website
         additional_links:
-          - title:  Building Materials Project
-            icon: fab fa-github
+          # - title:  Building Materials Project
+          - icon: fab fa-github
             url: github.com/antoniovmonge/build-mat
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
