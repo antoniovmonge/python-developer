@@ -164,24 +164,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-      - Playing the guitar (I do it poorly, but enjoy it like a super star)
-      - Running
-
-      ```python
-        if me in berlin:
-          running_path = "around Templehofer Feld"
-        elif me in south_of_Spain:
-          running_path = "alongside the coast"
-        else:
-          running_path = "alongside a river"
-      ```
-      - MMA Videos
-      - Sound Design (I was Sound Engineer before falling in love with programming)
-      - Video Production (Shooting and Editing)
-      Here a link of one of a Dance Video I shoot and edited:
-        <iframe title="vimeo-player" src="https://player.vimeo.com/video/386019047?h=da85a4eaf8" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-      - Photography (Another one I did)
-      ![One of my favorites](/python-developer/images/eins.jpg "Ballhaus Berlin")
+        - Playing the guitar (I do it poorly, but enjoy it like a super star)
+        - Running
+        - MMA Videos
+        - Sound Design
+        - Video Production
+        - Photography
 
 # Footer
 footer_show_references: true
