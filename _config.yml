@@ -75,10 +75,10 @@ content:
         # quote: >
         #   This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of apply thinks I learn and love about Django to build a great platform.
-          It helps to chose the best building materials during the design stages. 
-
-          This project includes:
+          I started this project to apply everything I'm learning about Django. 
+          This platform helps designers to choose the best building materials during the design stages. 
+          
+          The project includes:
 
           - Advanced user authentication
           - A Content Management System (CMS)
