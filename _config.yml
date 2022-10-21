@@ -44,7 +44,7 @@ linkedin_username: antonio-v-monge
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+# about_title: About Me
 about_profile_image: images/profile-pic-brown.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Antonio. 
@@ -59,7 +59,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Building Materials Project
         link: github.com/antoniovmonge/build-mat
         # link_text: Project Website
@@ -72,10 +72,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        quote: >
-          This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
+        # quote: >
+        #   This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>Django</mark> and I have been applying many things I have been learning in the last years.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
