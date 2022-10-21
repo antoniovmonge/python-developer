@@ -141,7 +141,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Data Science & Machine Learning Bootcamp
+        title: Data Science Bootcamp
         caption: 2021 (Three Months Full Time)
         sub_title: Le Wagon - Berlin
         # quote: >
@@ -164,10 +164,18 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Playing the guitar (I do it poorly, but enjoy it like a super star)
+      - Running (**If** I'm in Berlin, around Templehofer Feld, **elif** in Spain, near to the coast, else, close to a river)
+      ```python
+        if me in berlin:
+          running_path = "around Templehofer Feld"
+        elif me in south of Spain:
+          running_path = "alongside the coast"
+        else:
+          running_path = "alongside a river"
+      ```
+
+      ```
 
       Look at this cool image  
       ![Trees](/python-developer/images/landscape-trees.jpg "Trees")
