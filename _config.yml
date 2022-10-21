@@ -44,14 +44,16 @@ linkedin_username: antonio-v-monge
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile-pic-brown.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Antonio and I'm a Python Developer specialized in Django. 
+  Hi, my name is Antonio. 
 
-  I love working for companies that are looking for a more sustainable way of doing things.
+  I'm a Python developer specializing in Django.
 
-  I am skilled in: <mark>Django</mark>, <mark>Flask</mark>, <mark>Postgres</mark>
+  I love working for companies looking for a more sustainable way of doing things.
+
+  I am skilled in: <mark>Django</mark> <mark>Flask</mark> <mark>PostgreSQL</mark>
 
 content:
   - title: Projects # Title for the section
@@ -138,4 +140,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
