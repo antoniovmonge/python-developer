@@ -165,20 +165,23 @@ content:
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
       - Playing the guitar (I do it poorly, but enjoy it like a super star)
-      - Running (**If** I'm in Berlin, around Templehofer Feld, **elif** in Spain, near to the coast, else, close to a river)
+      - Running
+
       ```python
         if me in berlin:
           running_path = "around Templehofer Feld"
-        elif me in south of Spain:
+        elif me in south_of_Spain:
           running_path = "alongside the coast"
         else:
           running_path = "alongside a river"
       ```
-
-      ```
-
-      Look at this cool image  
-      ![Trees](/python-developer/images/landscape-trees.jpg "Trees")
+      - MMA Videos
+      - Sound Design (I was Sound Engineer before falling in love with programming)
+      - Video Production (Shooting and Editing)
+      Here a link of one of a Dance Video I shoot and edited:
+        <iframe title="vimeo-player" src="https://player.vimeo.com/video/386019047?h=da85a4eaf8" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+      - Photography (Another one I did)
+      ![One of my favorites](/python-developer/images/eins.jpg "Ballhaus Berlin")
 
 # Footer
 footer_show_references: true
