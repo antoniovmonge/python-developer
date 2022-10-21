@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Building Materials Project
+        title: Building Materials
         link: github.com/antoniovmonge/build-mat
         # link_text: Project Website
         additional_links:
@@ -72,10 +72,15 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # quote: >
-        #   This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
+        quote: >
+          This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Django</mark> and I have been applying many things I have been learning in the last years.
+          I started this project as a way of apply thinks I learn and love about Django to build a great platform.
+
+          This project includes:
+
+          - content management system (CMS).
+          - Model inheritance to create data models for polymorphic content
 
 
   - title: Experience # Title for the section
