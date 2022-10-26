@@ -163,9 +163,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-        - Playing the guitar (I do it poorly, but enjoy it like a super star)
+        - Playing guitar
         - Running
-        - MMA Videos
         - Sound Design
         - Video Production
         - Photography
