@@ -53,20 +53,20 @@ about_content: | # this will include new lines to allow paragraphs
 
   I love working for companies looking for a more sustainable way of doing things.
 
-  I am skilled in: <mark>Django</mark> <mark>Flask</mark> <mark>PostgreSQL</mark>
+  I am skilled in: <mark>Django</mark> <mark>Flask</mark> <mark>PostgreSQL</mark> <mark>Docker</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Building Materials
-        link: github.com/antoniovmonge/build-mat
+        title: Products Platform
+        link: github.com/antoniovmonge/products-platform
         # link_text: Project Website
-        additional_links:
+        # additional_links:
           # - title:  Building Materials Project
-          - icon: fab fa-github
-            url: github.com/antoniovmonge/build-mat
+          # - icon: fab fa-github
+          #   url: github.com/antoniovmonge/build-mat
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -75,18 +75,21 @@ content:
         # quote: >
         #   This Platform helps with decision making. Compare between more than 2000 building materials for a more sustainable construction.
         description: | # this will include new lines to allow paragraphs
-          I started this project to apply everything I'm learning about Django. 
-          This platform helps designers to choose the best building materials during the design stages. 
+          This platform allows us to search and compare products in a very detailed way.
+          This platform has two complementary user types. "Manufacturers" and "Designers".
+          It has CMS that allows members of **supplier companies** to upload their products.
+          A functionality to export detailed reports of individual products and/or compare them will be implemented.
           
           The project includes:
 
           - Advanced user authentication
           - A Content Management System (CMS)
           - Model inheritance to create data models for polymorphic content
-          - Complex permissions and roles assigned programmatically to different type of users
-          - A RESTful API using Django REST framework
+          - Complex permissions and roles assigned programmatically to the different types of users
+          - A RESTful API using the Django REST framework
           - A full-text search engine with Django and PostgreSQL
-          - Internal Email management to *Contact us* and *Contact the manufacturer*
+          - Internal Email management. (*Contact us* and *Contact the manufacturer*)
+          - Many more features will be added soon.
 
 
   - title: Experience # Title for the section
@@ -114,6 +117,7 @@ content:
           check data consistency and fixed issues by re-designing the data
           entry processes
           - Fixed database issues using Django migrations
+          - Created the Landing Page using HTML, CSS, Bootstrap and JavaScript. 
 
 
       - layout: left
